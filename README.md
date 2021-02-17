@@ -1,10 +1,10 @@
 # crown-clothing
 
-Building website for Crown clothing shop!
+Building website for Crypto!
 
 # Technology
 
-ReactJS, Sass, HTML5, CSS,...
+NextJS, Typescript, Module CSS, HTML5, CSS,...
 
 # Using
 
