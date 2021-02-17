@@ -1,4 +1,4 @@
-# crown-clothing
+# Crypto Website
 
 Building website for Crypto!
 
